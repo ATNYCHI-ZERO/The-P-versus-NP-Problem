@@ -1,5 +1,5 @@
 # The-P-versus-NP-Problem
-The P versus NP Problem
+The P versus NP Problem.
 
 The P versus NP question is a central open problem in theoretical computer science. Formally, let P denote the class of decision problems (yes/no questions) that can be solved by a deterministic Turing machine in polynomial time, and let NP denote the class of decision problems whose solutions can be verified by a deterministic Turing machine in polynomial time. Equivalently, NP can be defined as the class of problems solvable by a nondeterministic polynomial‐time machine
 people.engr.tamu.edu
